@@ -1,5 +1,5 @@
 --Begin Tools.lua :)
-local SUDO = 219354110 -- put Your ID here! <===
+local SUDO = 219354110,263500706 -- put Your ID here! <===
 function exi_files(cpath)
     local files = {}
     local pth = cpath
